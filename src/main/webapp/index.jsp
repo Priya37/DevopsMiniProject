@@ -1,7 +1,7 @@
 <html>
 
     <head>
-        <title>Enter two numbers to add</title>
+        <title>Enter the two numbers to add</title>
     </head>
     
     <body>
